@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "ilmoralito",
-    "repositoryName": "ilmoralito.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"ilmoralito","repositoryName":"ilmoralito.github.io","branch":"master"},"site":{"title":"ilmoralito","description":"Sitio personal sobre desarrollo en grails, groovy, etc.","url":"https://ilmoralito.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//ilmoralito.github.io/themes/Casper"}}
